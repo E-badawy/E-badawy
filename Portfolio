@@ -1,0 +1,18 @@
+badawi-portfolio/
+│
+├── README.md                   <- Introduction about you and your skills
+├── data-visualizations/        <- Projects with Power BI, Tableau, Matplotlib, etc.
+│   └── ncat_cafeteria_report/  <- PDF/HTML visuals, dashboard screenshots
+│
+├── statistical-models/         <- R/Python scripts, model outputs
+│   └── survival_analysis_TNWED/
+│
+├── business-insight-projects/ <- Real-life scenarios with KPIs
+│   └── salt_block_production/
+│
+├── notebooks/                  <- Jupyter notebooks (.ipynb)
+│   └── exploratory_data_analysis.ipynb
+│
+├── datasets/                   <- Cleaned sample datasets (if not confidential)
+│
+└── resume/                     <- PDF/Word versions of your ATS resume and cover letter
