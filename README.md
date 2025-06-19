@@ -33,9 +33,16 @@ With a strong foundation in analytics and operations, I focus on precision, perf
 ### [📈 Forecasting sales to predict Demand](https://github.com/E-badawy/sales-forecast)
 Developed time-series models to predict sales based on demand and optimize inventory decisions for supply chain management.
 
+---
 
 ### [📚 Data Audit & Cleansing Pipeline](https://github.com/E-badawy/data-quality-pipeline)
 Automated a pipeline for data quality assessment, missing value treatment, and outlier detection across multiple sources.
+
+---
+
+## Resume
+
+📄 [Download My Resume](./Badawi's_CV.pdf)
 
 ---
 
