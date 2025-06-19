@@ -30,18 +30,16 @@ With a strong foundation in analytics and operations, I focus on precision, perf
 
 ## Featured Projects
 
-### [📈 Forecasting Product Demand](https://github.com/yourusername/project-forecasting)
-Developed time-series models to predict sales and optimize inventory decisions for supply chain management.
+### [📈 Forecasting sales to predict Demand](https://github.com/E-badawy/sales-forecast)
+Developed time-series models to predict sales based on demand and optimize inventory decisions for supply chain management.
 
-### [📊 Operational Analytics Dashboard](https://github.com/yourusername/operations-dashboard)
-Built a dynamic Power BI dashboard integrating operations data for real-time performance tracking and reporting.
 
-### [📚 Data Audit & Cleansing Pipeline](https://github.com/yourusername/data-quality-pipeline)
+### [📚 Data Audit & Cleansing Pipeline](https://github.com/E-badawy/data-quality-pipeline)
 Automated a pipeline for data quality assessment, missing value treatment, and outlier detection across multiple sources.
 
 ---
 
-## Connect with me 
+## Connect with me via
 
 - 📧 Email: [Significant.cigma@gmail.com](mailto:Significant.cigma@gmail.com)
 - 📞 Phone: +234 806 544 0075
