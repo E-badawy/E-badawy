@@ -1,6 +1,6 @@
 # I'm Amin Badawy
 
-### Data Analyst | Technical Consultant | proprietor, Cigma General Solutions
+### Data & BI Analyst | Technical Consultant | proprietor, Cigma General Solutions
 
 ---
 
@@ -48,7 +48,7 @@ Automated a pipeline for data quality assessment, missing value treatment, and o
 
 ## Connect with me via
 
-- 📧 Email: [cigma.generalsolutions@gmail.com @gmail.com](mailto:cigma.generalsolutions@gmail.com)
+- 📧 Email: [cigma.generalsolutions@gmail.com](mailto:cigma.generalsolutions@gmail.com)
 - 📞 Phone: +234 806 544 0075
 - 🔗 LinkedIn: [linkedin.com/in/elameenbadawy](https://www.linkedin.com/in/elameenbadawy)
 
