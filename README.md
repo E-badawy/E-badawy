@@ -48,7 +48,7 @@ Automated a pipeline for data quality assessment, missing value treatment, and o
 
 ## Connect with me via
 
-- 📧 Email: [Significant.cigma@gmail.com](mailto:Significant.cigma@gmail.com)
+- 📧 Email: [cigma.generalsolutions@gmail.com @gmail.com](mailto:cigma.generalsolutions@gmail.com@gmail.com)
 - 📞 Phone: +234 806 544 0075
 - 🔗 LinkedIn: [linkedin.com/in/elameenbadawy](https://linkedin.com/in/elameenbadawy)
 
