@@ -42,7 +42,7 @@ Automated a pipeline for data quality assessment, missing value treatment, and o
 
 ## Resume
 
-📄 [Download My Resume](Badawi Aminu's CV.pdf) 
+📄 [Download My Resume](https://github.com/E-badawy/E-badawy/blob/ac53baf58ab6cb36b6ef0e6e4ee64f21da9cc026/Badawi_Aminu's_CV.pdf) 
 
 ---
 
